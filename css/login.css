@@ -35,6 +35,9 @@ body{
         margin:5%; 
         margin-top: 8%;
     }
+    .lock-img{
+        display:none;
+    }
 }
 
 }
